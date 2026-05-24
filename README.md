@@ -1,3 +1,3 @@
-# Hypermarket-analysis-project-G2
+# Excelerate-platform-analysis-project-G1
 
-Hypermarket analysis by Group 2
+Excelerate platform analysis-project-G1
